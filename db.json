@@ -1,0 +1,122 @@
+{
+  "cadastro": [
+    {
+      "petId ": 1,
+      "nome": "Lyon",
+      "raca": "Chow-Chow",
+      "idade": 13,
+      "obs": "idoso, problema de articulação",
+      "proprietario": "Luis Henrique",
+      "cpf": 11122233,
+      "end": "Pça miguel"
+    },
+    {
+      "petId ": 2,
+      "nome": "Luna",
+      "raca": "SRD",
+      "idade": 3,
+      "obs": "hiperativa",
+      "proprietario": "Lucia",
+      "cpf": 44455577788,
+      "end": "Humberto Bortolo"
+    },
+    {
+      "id": 3,
+      "nome": "Félix",
+      "raca": "SRD",
+      "idade": 13,
+      "obs": "gato, idoso, ",
+      "proprietario": "Evelyn",
+      "cpf": 11122233,
+      "end": "Pça miguel"
+    }
+  ],
+  "valores": [
+    {
+      "id": 1,
+      "pc-porte-p": 40
+    },
+    {
+      "id": 2,
+      "pc-porte-pm": 45
+    },
+    {
+      "id": 3,
+      "pc-porte-m": 50
+    },
+    {
+      "id": 4,
+      "pc-porte-mg": 50
+    },
+    {
+      "id": 5,
+      "pc-porte-g": 50
+    },
+    {
+      "id": 6,
+      "pc-porte-gg": 50
+    },
+    {
+      "id": 7,
+      "pm-porte-p": 40
+    },
+    {
+      "id": 8,
+      "pm-porte-pm": 45
+    },
+    {
+      "id": 9,
+      "pm-porte-m": 50
+    },
+    {
+      "id": 10,
+      "pm-porte-mg": 50
+    },
+    {
+      "id": 11,
+      "pm-porte-g": 50
+    },
+    {
+      "id": 12,
+      "pm-porte-gg": 50
+    },
+    {
+      "id": 13,
+      "pl-porte-p": 40
+    },
+    {
+      "id": 14,
+      "pl-porte-pm": 45
+    },
+    {
+      "id": 15,
+      "pl-porte-m": 50
+    },
+    {
+      "id": 16,
+      "pl-porte-mg": 50
+    },
+    {
+      "id": 17,
+      "pl-porte-g": 50
+    },
+    {
+      "id": 18,
+      "pl-porte-gg": 50
+    }
+  ],
+  "agenda": [
+    {
+      "id": 1,
+      "data": 10
+    },
+    {
+      "id": 2,
+      "horario": 13
+    },
+    {
+      "id": 1,
+      "petid": "Lyon"
+    }
+  ]
+}
